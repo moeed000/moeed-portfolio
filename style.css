@@ -368,6 +368,7 @@ header {
 /* --- FOOTER --- */
 .main-footer {
     padding: 20px 0 0 0;
+    margin-bottom: 10px; 
     border-top: 1px solid #eee;
     display: flex;
     justify-content: space-between;

@@ -17,5 +17,5 @@ You can view the live portfolio here:
 *   **Data Analytics Bootcamp Portfolio** (SQL, Excel, Power BI)
 
 ## 📫 Contact Me
-*   **Email:** moeedhaider12@gmail.com
+*   **Email:** moeed2680@gmail.com
 *   **GitHub:** [https://github.com/moeed000](https://github.com/moeed000)
